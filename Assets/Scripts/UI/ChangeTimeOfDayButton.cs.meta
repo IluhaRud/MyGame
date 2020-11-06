@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e9283a0edaa9a641a69109c2d49d1d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textOfButton: {instanceID: 0}
+  - _light: {instanceID: 0}
+  - _lampLight: {fileID: -927199367670048503, guid: bde8020cc70ac6b46a661170664197af,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

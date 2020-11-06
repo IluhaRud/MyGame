@@ -119,7 +119,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6753398886427790800}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 7.365, z: -3.2400002}
+  m_LocalPosition: {x: 0, y: 7.23, z: -3.2400002}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 6753398887066357418}
@@ -137,8 +137,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.8608516, b: 0, a: 1}
-  m_Intensity: 3.49
-  m_Range: 22.18
+  m_Intensity: 2.12
+  m_Range: 28.03
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -179,10 +179,10 @@ Light:
   m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1.94
+  m_BounceIntensity: 22.34
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 5.5679994e-10}
+  m_BoundingSphereOverride: {x: 0, y: 1e-45, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -291,7 +291,7 @@ GameObject:
   - component: {fileID: 6753398887066357418}
   m_Layer: 0
   m_Name: StreetLight
-  m_TagString: Untagged
+  m_TagString: StreetLight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
